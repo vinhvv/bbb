@@ -1,0 +1,11 @@
+D:\Study\C#\QuanLyCBGV\QuanLyCBGV\bin\Debug\QuanLyCBGV.exe.config
+D:\Study\C#\QuanLyCBGV\QuanLyCBGV\bin\Debug\QuanLyCBGV.exe
+D:\Study\C#\QuanLyCBGV\QuanLyCBGV\bin\Debug\QuanLyCBGV.pdb
+D:\Study\C#\QuanLyCBGV\QuanLyCBGV\obj\Debug\QuanLyCBGV.Properties.Resources.resources
+D:\Study\C#\QuanLyCBGV\QuanLyCBGV\obj\Debug\QuanLyCBGV.csproj.GenerateResource.Cache
+D:\Study\C#\QuanLyCBGV\QuanLyCBGV\obj\Debug\QuanLyCBGV.exe
+D:\Study\C#\QuanLyCBGV\QuanLyCBGV\obj\Debug\QuanLyCBGV.pdb
+D:\Study\C#\QuanLyCBGV\QuanLyCBGV\obj\Debug\QuanLyCBGV.csprojResolveAssemblyReference.cache
+D:\Study\C#\QuanLyCBGV\QuanLyCBGV\obj\Debug\QuanLyCBGV.frmQLDMGiaoVien.resources
+D:\Study\C#\QuanLyCBGV\QuanLyCBGV\obj\Debug\QuanLyCBGV.frmHoSoHocSinh.resources
+D:\Study\C#\QuanLyCBGV\QuanLyCBGV\obj\Debug\QuanLyCBGV.DanhSachGiaoVien.resources
