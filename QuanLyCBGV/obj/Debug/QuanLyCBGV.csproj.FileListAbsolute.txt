@@ -9,3 +9,6 @@ D:\Study\C#\QuanLyCBGV\QuanLyCBGV\obj\Debug\QuanLyCBGV.csprojResolveAssemblyRefe
 D:\Study\C#\QuanLyCBGV\QuanLyCBGV\obj\Debug\QuanLyCBGV.frmQLDMGiaoVien.resources
 D:\Study\C#\QuanLyCBGV\QuanLyCBGV\obj\Debug\QuanLyCBGV.frmHoSoHocSinh.resources
 D:\Study\C#\QuanLyCBGV\QuanLyCBGV\obj\Debug\QuanLyCBGV.DanhSachGiaoVien.resources
+D:\Git\QuanLyCBGV\QuanLyCBGV\bin\Debug\QuanLyCBGV.exe.config
+D:\Git\QuanLyCBGV\QuanLyCBGV\obj\Debug\QuanLyCBGV.exe
+D:\Git\QuanLyCBGV\QuanLyCBGV\obj\Debug\QuanLyCBGV.pdb
